@@ -1,0 +1,17 @@
+.font{
+    font-family: Baskerville;
+}
+
+.title_container{
+    text-align: center;
+}
+.title{
+    text-decoration: none;
+    font-size: 40px;
+}
+.run_button{
+    padding-top: 15px;
+}
+.input_container{
+    text-align: center;
+}
